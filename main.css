@@ -1,0 +1,28 @@
+.dark-mode {
+    background-color: #111314;
+}
+
+.sessionsCountMsg{
+    color: white;
+}
+
+.form-check-label{
+      color: #fff;
+}
+
+.list-group{
+    background-color: rgb(233, 233, 230);
+}
+
+.list-group-item{
+      background-color: rgb(233, 233, 230);
+}
+
+.sessionsBTNs{
+    background-color: #1e2325;
+    border-color: rgb(138, 133, 133);
+}
+
+.sessionsUL{
+    background-color:#1e2325;
+}
